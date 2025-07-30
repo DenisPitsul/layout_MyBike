@@ -16,7 +16,7 @@ A modern, responsive landing page for **MyBIKE**, built with semantic HTML and m
   - Compare bikes
   - The Details
   - Contact us
-- ✅ **Sticky footer**:
+- ✅ **Sticky footer**
 
 ## 🛠 Technologies Used
 
